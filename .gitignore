@@ -4,7 +4,6 @@
 *.lk
 *.zip
 cfg/
-config/
 contributions/
 data/
 documents/

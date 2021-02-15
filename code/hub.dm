@@ -1,7 +1,7 @@
 /world
 	hub = "Exadv1.spacestation13"
 	hub_password = "kMZy3U5jJHSiBQjr"
-	name = "S.T.A.L.K.E.R.: Overcast"
+	name = "SLS STALKER13"
 
 /*
 This is for any host that would like their server to appear on the main SS13 hub.

@@ -1,0 +1,7 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to SLS Stalker13</h1>
+
+<b>Discord: https://slsgaming.net/discord</b>
+
+This server is running a modified version of STALKER13 Overcast, we are a new server hopefully with 24/7 access coming soon... Stay tuned!
