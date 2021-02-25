@@ -128,7 +128,7 @@ GUEST_BAN
 
 ## set a server location for world reboot. Don't include the byond://, just give the address and port.
 # Don't set this to the same server, BYOND will automatically restart players to the server when it has restarted.
-# SERVER 107.150.32.114:13100
+SERVER play.slsgaming.net:2020
 
 ## Forum address
 FORUMURL https://slsgaming.net/discord
@@ -193,7 +193,7 @@ EXTREME_POPCAP_MESSAGE The server is currently serving a high number of users.
 
 ## Notify admins when a new player connects for the first x days a player's been around. (0 for first connection only, -1 for never)
 ##	Requres database
-NOTIFY_NEW_PLAYER_AGE 0 
+NOTIFY_NEW_PLAYER_AGE 30
 
 ## Notify the irc channel when a new player makes their first connection
 ##	Requres database
